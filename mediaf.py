@@ -6,7 +6,7 @@ def version():
 def about():
 	print("""
 	Usage --------------------------------------
-	First install sudo apt-get install ffmpeg
+	
 	--------------------------------------------
 	>>import mediaf
 	
